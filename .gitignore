@@ -1,0 +1,22 @@
+# .gitignore
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+get-pip.py
+
+# virtual environment
+venv/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# dist / build
+dist/
+build/
+*.egg-info/
